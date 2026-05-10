@@ -1,0 +1,4 @@
+[core]
+    remote = ml-dataset
+['remote "ml-dataset"']
+    url = s3://ml-dataset-021891607328-ap-southeast-1-an/datasets/
